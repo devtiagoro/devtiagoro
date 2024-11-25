@@ -8,11 +8,9 @@ Como desenvolvedor, sou especializado em criar soluções digitais robustas, dom
 
 Com um perfil analítico, observador e detalhista, sou líder por natureza, aprendendo rapidamente e sempre alinhando minha visão gerencial com as necessidades de cada negócio. Compartilho meu conhecimento com a comunidade nas redes sociais, onde meus projetos estão disponíveis para consulta.
 
+<br/>
 ---
 <br/>
-<br/>
-
-
 ## 🤖 Linguagens e Tecnologias
 
 <img 
