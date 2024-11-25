@@ -1,6 +1,6 @@
 # 📌 Tiago Rodrigues
 
-**'Desenvolvedor Full Stack'**
+**`Desenvolvedor Full Stack`**
 
 Sou Tiago Rodrigues, mineiro sem sotaque, com 25 anos e quase 10 anos de experiência no mundo empresarial. Como CFO e sócio de minhas empresas, trouxe minha expertise em gestão financeira para o mercado digital, onde me posiciono como especialista em Onboarding Digital. Meu objetivo é ajudar empresários que ainda não possuem presença digital a se destacarem, combinando minha visão estratégica e gerencial com o desenvolvimento de websites e landing pages eficazes que impulsionam o crescimento financeiro de suas empresas.
 
