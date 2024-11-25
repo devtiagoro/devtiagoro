@@ -9,7 +9,6 @@ Meu objetivo é ajudar empresários que ainda não possuem presença digital a s
 
 ---
 <br>
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
