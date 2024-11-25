@@ -11,7 +11,6 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
 
 ---
 <br>
-<br>
 
 ## 🤖 Linguagens e Tecnologias
 
