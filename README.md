@@ -8,9 +8,9 @@ Como desenvolvedor, sou especializado em criar soluções digitais robustas, dom
 
 Com um perfil analítico, observador e detalhista, sou líder por natureza, aprendendo rapidamente e sempre alinhando minha visão gerencial com as necessidades de cada negócio. Compartilho meu conhecimento com a comunidade nas redes sociais, onde meus projetos estão disponíveis para consulta.
 
-<br/>
+<br>
+
 ---
-<br/>
 ## 🤖 Linguagens e Tecnologias
 
 <img 
@@ -45,8 +45,6 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
 <br/>
 <br/>
 ## 📊 Estatísticas
@@ -55,7 +53,7 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200px" 
+    height="170px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=devtiagoro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -63,7 +61,7 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200px" 
+      height="170px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtiagoro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
