@@ -53,7 +53,7 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170px" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=devtiagoro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -61,7 +61,7 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170px" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtiagoro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
