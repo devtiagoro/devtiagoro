@@ -5,15 +5,7 @@
 Me chamo Tiago Rodrigues, sou um mineiro sem sotaque, com 25 anos e 10 anos de experiência no mundo empresarial. Como CFO e sócio de minhas empresas, trouxe minha expertise em gestão financeira para o mercado digital, onde me posiciono como especialista no Onboarding Digital. 
 
 Meu objetivo é ajudar empresários que ainda não possuem presença digital a se destacarem, combinando minha visão estratégica e gerencial com o desenvolvimento de websites e landing pages eficazes que impulsionam o crescimento financeiro de suas empresas. Como desenvolvedor, sou especializado em criar soluções digitais robustas, dominando as linguagens HTML, CSS, Python e JavaScript. Minha experiência empresarial permite-me aplicar uma abordagem estratégica no desenvolvimento de soluções digitais, sempre focando no onboarding de novos clientes para maximizar o impacto dos projetos.
-
 <p>
-<a href="https://www.instagram.com/dev.tiagoro/>
-        <img 
-            alt="Instagram" 
-            title="Me siga no instagram" 
-            src="https://custom-icon-badges.demolab.com/github/stars/devtiagoro?color=55960c&style=for-the-badge&labelColor=488207&logo=ig&label=instagram"
-        />
-    </a>
 <a href="https://github.com/devtiagoro?tab=followers">
         <img 
             alt="Seguidores" 
