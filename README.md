@@ -12,7 +12,7 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
 ---
 <br>
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -48,14 +48,13 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
 />
 <br/>
 <br/>
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="150"
-    width="400"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=devtiagoro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -64,7 +63,6 @@ Com um perfil analítico, observador e detalhista, sou líder por natureza, apre
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtiagoro&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
