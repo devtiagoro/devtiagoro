@@ -1,6 +1,6 @@
 # 👨‍💻 Tiago Rodrigues
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Tiago Rodrigues, sou um mineiro sem sotaque, com 25 anos e 10 anos de experiência no mundo empresarial. Como CFO e sócio de minhas empresas, trouxe minha expertise em gestão financeira para o mercado digital, onde me posiciono como especialista no Onboarding Digital. 
 
