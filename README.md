@@ -1,4 +1,4 @@
-# 📌 Tiago Rodrigues
+# 👨‍💻 Tiago Rodrigues
 
 **`Desenvolvedor Full Stack`**
 
