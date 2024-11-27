@@ -1,6 +1,7 @@
 # 👨‍💻 Tiago Rodrigues
 
-**`Desenvolvedor Web e Especialista em Onbording Digtal`**
+**`Desenvolvedor Web Front-end`**
+**`Especialista em Onbording Digtal`**
 
 Sou Tiago Rodrigues, mineiro de 25 anos com 10 anos de experiência no mundo empresarial. Como empresário trouxe minha expertise em gestão financeira para o mercado digital. Meu foco é ajudar empresários sem presença online a se destacarem, unindo visão estratégica e desenvolvimento web. 
 
