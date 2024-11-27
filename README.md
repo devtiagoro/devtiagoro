@@ -1,10 +1,10 @@
 # 👨‍💻 Tiago Rodrigues
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Web e Especialista em Onbording Digtal`**
 
-Me chamo Tiago Rodrigues, sou um mineiro sem sotaque, com 25 anos e 10 anos de experiência no mundo empresarial. Como CFO e sócio de minhas empresas, trouxe minha expertise em gestão financeira para o mercado digital, onde me posiciono como especialista no Onboarding Digital. 
+Sou Tiago Rodrigues, mineiro de 25 anos com 10 anos de experiência no mundo empresarial. Como empresário trouxe minha expertise em gestão financeira para o mercado digital. Meu foco é ajudar empresários sem presença online a se destacarem, unindo visão estratégica e desenvolvimento web. 
 
-Meu objetivo é ajudar empresários que ainda não possuem presença digital a se destacarem, combinando minha visão estratégica e gerencial com o desenvolvimento de websites e landing pages eficazes que impulsionam o crescimento financeiro de suas empresas. Como desenvolvedor, sou especializado em criar soluções digitais robustas, dominando as linguagens HTML, CSS, Python. Minha experiência empresarial permite-me aplicar uma abordagem estratégica no desenvolvimento de soluções digitais, sempre focando no onboarding de novos clientes para maximizar o impacto dos projetos.
+Crio websites e landing pages que não apenas atraem, mas impulsionam o crescimento financeiro dos negócios. Especialista em Onboarding Digital, minha missão é transformar ideias em resultados.
 
 
 ---
