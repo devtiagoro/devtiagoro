@@ -29,15 +29,9 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
+<br/>
+<br/>
 
 ### 🤖 Tecnologias em aprendizado
 <img 
@@ -48,8 +42,6 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-
 
 <br/>
 <br/>
