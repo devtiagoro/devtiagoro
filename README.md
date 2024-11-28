@@ -11,7 +11,7 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
 ---
 <br>
 
-### 🤖 Tecnologias que tenho conhecimento
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -33,7 +33,7 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
 <br/>
 <br/>
 
-### 🤖 Tecnologias em aprendizado
+### 👨‍🎓 Um eterno estudante
 <img 
     align="left" 
     alt="Python" 
