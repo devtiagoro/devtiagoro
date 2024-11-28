@@ -90,8 +90,7 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
     title="React Native"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
 />
 
 <br/>
