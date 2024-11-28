@@ -11,7 +11,7 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
 ---
 <br>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias que tenho conhecimento
 
 <img 
     align="left" 
@@ -31,12 +31,15 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+### 🤖 Tecnologias em aprendizado
 <img 
     align="left" 
     alt="Python" 
@@ -45,6 +48,9 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+
 <br/>
 <br/>
 ### 📊 Estatísticas
