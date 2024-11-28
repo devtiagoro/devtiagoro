@@ -55,7 +55,8 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=devtiagoro&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
+</p>
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
