@@ -8,7 +8,7 @@ Sou Tiago Rodrigues, mineiro de 25 anos com 10 anos de experiência no mundo emp
 Crio websites e landing pages que não apenas atraem, mas impulsionam o crescimento financeiro dos negócios. Especialista em Onboarding Digital, minha missão é transformar ideias em resultados.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagorodriguescfo/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tiagoro@outlook.com)
+[![outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.tiagoro@outlook.com)
 
 ---
 <br>
