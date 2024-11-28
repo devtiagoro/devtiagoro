@@ -33,7 +33,15 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
 <br/>
 <br/>
 
-### 👨‍🎓 Um eterno estudante
+### 👨‍🎓 Um Eterno Aprendiz
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -73,6 +81,15 @@ Crio websites e landing pages que não apenas atraem, mas impulsionam o crescime
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native" 
+    title="React Native"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 />
 
 <br/>
